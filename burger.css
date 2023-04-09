@@ -1,0 +1,58 @@
+body{
+    background-color :#35acda;
+    font-family: Helvetica;
+    text-align: justify;
+}
+
+#logo img{
+    margin: auto;
+    display: block;
+    border: 1px solid black;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+}
+
+#diapo{
+    margin: auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+}
+
+a:hover{
+    /*hover désigne le survol par la souris.*/
+    color: #da6335;
+    font-weight: bold;
+    margin: 5px;
+}
+
+table, td, tr{
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding:5px;
+}
+
+td{
+    width: 160px;
+    text-align: center;
+    background-color: #afeeee;
+}
+
+td:hover{
+    /*hover désigne le survol par la souris.*/
+    background-color: #d6c417;
+    font-weight: bold;
+}
+
+#burgerimg{
+    margin: auto;
+    display: block;
+    max-height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 7px 3px 3px black;
+}
+
